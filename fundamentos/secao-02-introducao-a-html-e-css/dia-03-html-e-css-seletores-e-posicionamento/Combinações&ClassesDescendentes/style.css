@@ -43,7 +43,7 @@ li em{
 #sites li a:hover[href*="stackoverflow"]{
     color: orange;
 }
-#sites li a;:hover[href*="w3schools"]{
+#sites li a:hover[href*="w3schools"]{
     color: green;
 }
 #sites li a:hover[href*="mozilla"]{
