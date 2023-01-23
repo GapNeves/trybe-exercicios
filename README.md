@@ -34,5 +34,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:hourglass_flowing_sand:] 4-1 : _Primeiros Passos_
 - [:hourglass_flowing_sand:] 4-2 : _Array e loop for_
 - [:hourglass_flowing_sand:] 4-3 : _Lógica de Programação_
-- [:hourgla_s_flowing_sand:] 4-4 : _Objetos e funções_
-- [:hourgla_s_flowing_sand:] 4-5 : _let, const, arrow functions e template literals, 3echado, intem de menu com subitens_
+- [:hourglass_flowing_sand:] 4-4 : _Objetos e funções_
+- [:hourglass_flowing_sand:] 4-5 : _let, const, arrow functions e template literals, 3echado, intem de menu com subitens_
