@@ -24,7 +24,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 3: Introdução à HTML & CSS
 
-- [:hourglass_flowing_sand:] 3-1: _Estrutura de página_
-- [:hourglass_flowing_sand:] 3-2: _Primeiros passos com CSS_
-- [:hourglass_flowing_sand:] 3-3: _Seletores e posicionamento_
-- [:hourglass_flowing_sand:] 3-4: _Semãntico_
+- [:white_check_mark:] 3-1: _Estrutura de página_
+- [:white_check_mark:] 3-2: _Primeiros passos com CSS_
+- [:white_check_mark:] 3-3: _Seletores e posicionamento_
+- [:white_check_mark:] 3-4: _Semãntico_
+
+##### Bloco 4: Introdução à JavaScript
+
+- [:hourglass_flowing_sand:] 4-1 : _Primeiros Passos_
+- [:hourglass_flowing_sand:] 4-2 : _Array e loop for_
+- [:hourglass_flowing_sand:] 4-3 : _Lógica de Programação_
+- [:hourgla_s_flowing_sand:] 4-4 : _Objetos e funções_
+- [:hourgla_s_flowing_sand:] 4-5 : _let, const, arrow functions e template literals, 3echado, intem de menu com subitens_
