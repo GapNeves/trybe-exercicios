@@ -22,3 +22,31 @@
 // console.log(perimeter);
 
 
+//Atividade para fixar-JavaScript-Primeiros passos-CondiçõesIfeElse
+
+// const notaCandidata = 70;
+
+// if (notaCandidata >= 80){
+//     console.log("Parabéns, você faz parte do grupo das pessoas aprovadas!")
+// }
+// else if (notaCandidata < 80 && notaCandidata >=60){
+//     console.log("Você está na nossa lista de espera!")
+// }
+// else{
+//     console.log("Infelizmente você foi reprovada!")
+// }
+
+//Atividade Aula ao Vivo
+
+// let num1 = '5';
+// let num2 = 5;
+// let result;
+
+// if(num1 === num2){
+//     result = num1 + num2
+// }
+// else{
+//     result = num1 * num2
+// }
+
+// console.log(result);
