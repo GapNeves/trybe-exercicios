@@ -73,3 +73,39 @@
 // }
 
 // console.log(message);
+
+//Atividade para fixar-JavaScript-Primeiros passos-weekDay
+
+// let weekDay = 'xablau';
+
+// if(weekDay ==='segunda-feira' || weekDay ==='terça-feira' || weekDay ==='quarta-feira' || weekDay ==='quinta-feira' || weekDay ==='sexta-feira'){
+//     console.log('Oba, mais um dia de aprendizado na Trybe >:D!')
+// }
+// else if(weekDay === 'sabado' || weekDay === 'domingo'){
+//     console.log('FINALMENTE, descanso merecido UwU!')
+// }
+// else {
+//     console.log('Escolha algum dia da semana!')
+// }
+
+
+//Atividade para fixar-JavaScript-Primeiros passos-Switch e Case
+
+// let pessoaCandidata = "reprovada";
+// let statusPessoa;
+
+// switch(pessoaCandidata){
+//     case 'aprovada':
+//         statusPessoa = 'Parabéns, você foi aprovada(o)!';
+//         break;
+//     case 'lista':
+//         statusPessoa = 'Você está na nossa lista de espera';
+//         break;
+//     case 'reprovada':
+//         statusPessoa = 'Você foi reprovada(o)';
+//         break;
+//     default:
+//         statusPessoa = 'Informação incorreta';
+// }
+
+// console.log(statusPessoa);
