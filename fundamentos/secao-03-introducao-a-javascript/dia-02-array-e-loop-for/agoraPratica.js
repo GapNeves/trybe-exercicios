@@ -5,6 +5,9 @@ let soma = 0;
 let media = 0;
 let valor = '';
 let maior = numbers[0];
+let impar = 0;
+let menor= numbers[0];
+let div= 0;
  
 console.log(numbers);
 
@@ -32,3 +35,28 @@ for(index = 0; index < numbers.length; index += 1){
 }
 
 console.log('O maior valor é: ' + maior);
+
+for(ipar = 0; ipar < numbers.length; ipar += 1){
+    if(numbers[ipar] % 2 !== 0){
+        impar += 1;
+    }
+}
+
+console.log('Temos ' + impar + ' numeros impares nesse array!');
+
+for(iless = 0; iless < numbers.length; iless += 1){
+    if(numbers[iless] < menor){
+        menor = numbers[iless];
+    }
+}
+
+console.log('O menor valor é: ' + menor);
+
+let twent = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25];
+
+console.log(twent);
+
+for(it = 0; it < twent.length; it += 1){
+    div = twent[it] % 2;
+    console.log(div);
+}
