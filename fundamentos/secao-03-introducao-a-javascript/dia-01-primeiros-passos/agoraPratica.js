@@ -13,14 +13,23 @@ const num3 =27;
 let numMaior = '';
 
 if(num1 > num2 && num1 > num3){
-    numMaior = num1 + ' é o maior entre os números!'
+    numMaior = num1 + ' é o maior entre os números!';
 }
 else if(num2 > num1 && num2 > num3){
-    numMaior = num2 + ' é o maior entre os números!'
+    numMaior = num2 + ' é o maior entre os números!';
 }
 else{
-    numMaior = num3 + ' é o maior entre os números!'
+    numMaior = num3 + ' é o maior entre os números!';
 }
 console.log(numMaior);
 
+const inter = 0.35;
+let inform = '';
 
+if(inter >= 0){
+    inform = inter + ' é positivo!';
+}
+else{
+    inform = inter + ' é negativo!';
+}
+console.log(inform);
