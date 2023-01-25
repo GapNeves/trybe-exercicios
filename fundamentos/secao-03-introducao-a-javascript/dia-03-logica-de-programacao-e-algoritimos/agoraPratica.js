@@ -9,3 +9,7 @@ for (let index = number; index > 1; index -=1){
 
 console.log(fatorial);
 
+//Atividade para fixar-JavaScript-Lógica de Programação-Invertendo palavras
+
+let word = 'tryber';
+
