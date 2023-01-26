@@ -56,3 +56,50 @@ for (let currentNumber = 2; currentNumber <= 50; currentNumber += 1) {
 }
 
 console.log(biggestPrimeNumber);
+
+//Atividade para fixar-JavaScript-Lógica de Programação-Exercicios Bonús
+
+//Exercicio 1
+
+// let n = 5;
+// let simbolo = '*';
+// let line = '';
+
+// for(index = 0; index < n; index += 1){
+//     line = line + simbolo;
+// }
+// for(index = 0; index < n; index += 1){
+//     console.log(line);
+// }
+
+//Exercicio 2
+
+// let n = 5;
+// let simbolo = '*';
+// let line = '';
+
+// for(index = 0; index < n; index += 1){
+//     line = line + simbolo;
+//     console.log(line);
+// }
+
+//Exercicio 3
+
+let n = 5;
+let symbol = '*';
+let line = '';
+let position = n - 1;
+
+for(let index = 0; index < n; index += 1){
+    for(let i = 0; i < n; i += 1){
+        if(i < position){
+            line = line + ' ';
+        }
+        else{
+            line = line + symbol;
+        }
+    }
+    console.log(line);
+    line = '';
+    position -= 1;
+}
