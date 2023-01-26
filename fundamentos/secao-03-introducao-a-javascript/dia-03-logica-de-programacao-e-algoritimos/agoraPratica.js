@@ -19,3 +19,6 @@ for (let index = 0; index < word.length; index += 1) {
 }
 
 console.log(reverseWord);
+
+//Atividade para fixar-JavaScript-Lógica de Programação-Maior e menor palavra
+
