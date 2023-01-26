@@ -22,3 +22,20 @@ console.log(reverseWord);
 
 //Atividade para fixar-JavaScript-Lógica de Programação-Maior e menor palavra
 
+let array = ['java', 'javascript', 'python', 'html', 'css'];
+let big= array[0];
+let small= array[0];
+
+for(let index = 0; index < array.length; index += 1){
+    if(array[index].length > big.length){
+        big = array[index];
+    }
+}
+
+for(let index = 0; index < array.length; index += 1){
+    if(array[index].length < small.length){
+        small = array[index];
+    }
+}
+console.log(big);
+console.log(small);
