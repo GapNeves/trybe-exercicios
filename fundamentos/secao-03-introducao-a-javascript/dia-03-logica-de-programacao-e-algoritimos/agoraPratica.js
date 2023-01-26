@@ -39,3 +39,9 @@ for(let index = 0; index < array.length; index += 1){
 }
 console.log(big);
 console.log(small);
+
+//Atividade para fixar-JavaScript-Lógica de Programação-Número Primo
+let numPrimo = null ;
+for (i = 2; i <= 50; i+= 1){
+    
+}
