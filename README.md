@@ -36,3 +36,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [:white_check_mark:] 4-3 : _Lógica de Programação_
 - [:white_check_mark:] 4-4 : _Objetos e funções_
 - [:white_check_mark:] 4-5 : _let, const, arrow functions e template literals, 3echado, intem de menu com subitens_
+
+##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
+
+- [:hourglass_flowing_sand:] 5-1 : _DOM e seletores_
+- [:hourglass_flowing_sand:] 5-2 : _Trabalhando com elemetos_
+- [:hourglass_flowing_sand:] 5-3 : _Eventos_
+- [:hourglass_flowing_sand:] 5-4 : _Web Storage_
