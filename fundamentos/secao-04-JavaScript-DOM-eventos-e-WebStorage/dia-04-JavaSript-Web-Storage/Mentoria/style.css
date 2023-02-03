@@ -2,6 +2,10 @@ input[type="text" i] {
   padding: 10px;
 }
 
+body{
+  background-color: rgb(32, 31, 31);
+}
+
 .send {
   padding: 10px;
   border-radius: 10px;

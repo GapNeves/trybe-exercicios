@@ -9,10 +9,15 @@ Lembre-se de usar o console do navegador para testar.
 
 // codigo aqui
 
-/* Requisito 2: Agora troque a cor desse titúlo para sua cor preferida :) 
+let titleHeader = document.getElementsByTagName('title');
+console.log(titleHeader);
+
+/* Requisito 2: Agora troque a cor desse titúlo para sua cor preferida :)*/ 
 
 // codigo aqui
 
+const colorTitle = document.getElementsByClassName('title')[0];
+colorTitle.style.color = 'blue';
 
 /*-------------------------*/
 
@@ -28,6 +33,8 @@ Lembre-se de usar o console do navegador para testar.
 */
 
 //codigo aqui
+
+
 
 /* 
 Agora que capturamos nosso input vamos precisar pegar o valor que for digitado no input, 
