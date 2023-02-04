@@ -118,7 +118,17 @@ Requisito 8: Crie uma variável chamada listItem responsável pro criar e armaze
 ps: dê um console.log() na variável para verificar se está tudo certo
 
 Dica: Pesquise como criar elementos HTML usando javascript
+*/
 
+button.addEventListener('click', () => {
+    const listElement = document.getElementById('task');
+    console.log(listElement);
+    
+    const listItem = document.createElement('li');
+    console.log(listItem);
+});
+
+/*
 Requisito 9: Agora precisamos inserir isso no nosso HTML. 
 Adicione esse <li></li> criado (listItem) dentro da nossa lista (listElement) <ul></ul>.
 
@@ -128,9 +138,13 @@ Dica: Para isso use o appendChild. Se não sabe como utilizar dê uma olhada na 
 
 button.addEventListener('click', () => {
     const listElement = document.getElementById('task');
+    console.log(listElement);
     
-});
+    const listItem = document.createElement('li');
+    console.log(listItem);
 
+    // listElement.appendChild(listItem);
+});
 
 /* 
 
@@ -143,5 +157,18 @@ de tarefas :)
 
 */
 
+button.addEventListener('click', () => {
 
+    const input = document.getElementsByTagName('input')[0];
+    const inputValue = input.value;
 
+    const listElement = document.getElementById('task');
+    // console.log(listElement);
+    
+    const listItem = document.createElement('li');
+    listItem.innerHTML = inputValue;
+    // console.log(listItem);
+
+    listElement.appendChild(listItem);
+    
+});

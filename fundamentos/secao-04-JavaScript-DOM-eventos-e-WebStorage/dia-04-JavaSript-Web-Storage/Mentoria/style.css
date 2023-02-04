@@ -6,6 +6,10 @@ body{
   background-color: rgb(32, 31, 31);
 }
 
+#task{
+  color: white;
+}
+
 .send {
   padding: 10px;
   border-radius: 10px;
