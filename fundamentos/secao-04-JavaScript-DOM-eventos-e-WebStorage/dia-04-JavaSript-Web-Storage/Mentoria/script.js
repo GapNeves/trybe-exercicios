@@ -68,6 +68,10 @@ Lembre-se de usar o console do navegador para testar.
 
 */ 
 
+button.addEventListener('click', () => {
+    console.log(input.value);    
+});
+
 /* 
 Boa! Já temos uma boa parte funcionando. 
 
@@ -76,6 +80,8 @@ Requisito 6: Crie uma variável com nome inputValue armazenando o valor do input
 ps:Como o valor do input existe somento dentro do console.log, 
 vamos retirar ele de lá e colocar dentro de uma váriavel. 
 */
+
+
 
 /*
 Agora precisamos pegar esse valor do input e adicionarmos em uma lista!
