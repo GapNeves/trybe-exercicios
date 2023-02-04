@@ -9,7 +9,7 @@ Lembre-se de usar o console do navegador para testar.
 
 // codigo aqui
 
-let titleHeader = document.getElementsByTagName('title');
+let titleHeader = document.getElementsByTagName('h1')[0];
 console.log(titleHeader);
 
 /* Requisito 2: Agora troque a cor desse titúlo para sua cor preferida :)*/ 
@@ -17,7 +17,7 @@ console.log(titleHeader);
 // codigo aqui
 
 const colorTitle = document.getElementsByClassName('title')[0];
-colorTitle.style.color = 'blue';
+colorTitle.style.color = 'white';
 
 /*-------------------------*/
 
@@ -34,7 +34,9 @@ Lembre-se de usar o console do navegador para testar.
 
 //codigo aqui
 
-
+const input = document.getElementsByTagName('input')[0];
+const button = document.getElementsByTagName('button')[0];
+console.log(input, button);
 
 /* 
 Agora que capturamos nosso input vamos precisar pegar o valor que for digitado no input, 
@@ -49,8 +51,10 @@ Fazemos isso para testar nosso código e verificar se o evento de click
 está funcionando
 
 Lembre-se de usar o console do navegador para testar.
-
 */
+
+const imprimirTexto = () => console.log('estou disparando um evento');
+button.addEventListener('click', imprimirTexto);
 
 /*
 Requisito 5: Agora dentro do console.log('estou disparando um evento')
