@@ -81,7 +81,10 @@ ps:Como o valor do input existe somento dentro do console.log,
 vamos retirar ele de lá e colocar dentro de uma váriavel. 
 */
 
-
+button.addEventListener('click', () => {
+    const inputValue = input.value;
+    console.log(inputValue);    
+});
 
 /*
 Agora precisamos pegar esse valor do input e adicionarmos em uma lista!
@@ -95,11 +98,6 @@ usando seu ID e armazene em uma variável chamada listElement.
 ps: dê um console.log() na variável para verificar se está selecionando
 o item correto. 
 
-*/
-
-
-
-/* 
 Requisito 7: Crie uma tag <li></li> dentro da nossa função de click.
 
 Agora toda vez que for clicado no button precisamos também criar um <li></li>
@@ -108,7 +106,14 @@ que será justamente cada item da nossa lista de tarefa.
 Além de criar esse <li></li> a cada click, devemos lembrar que ele deve ser
 inserido dentro da nossa tag <ul></ul>
 Massss vamos por parte:
+*/
 
+button.addEventListener('click', () => {
+    const listElement = document.getElementById('task');
+    console.log(listElement);  
+});
+
+/*
 Requisito 8: Crie uma variável chamada listItem responsável pro criar e armazenar o elemento <li></li>
 ps: dê um console.log() na variável para verificar se está tudo certo
 
@@ -120,6 +125,12 @@ Adicione esse <li></li> criado (listItem) dentro da nossa lista (listElement) <u
 Dica: Para isso use o appendChild. Se não sabe como utilizar dê uma olhada na documentacão
 
 */
+
+button.addEventListener('click', () => {
+    const listElement = document.getElementById('task');
+    
+});
+
 
 /* 
 
