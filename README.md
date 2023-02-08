@@ -39,7 +39,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
-- [:hourglass_flowing_sand:] 5-1 : _DOM e seletores_
-- [:hourglass_flowing_sand:] 5-2 : _Trabalhando com elemetos_
-- [:hourglass_flowing_sand:] 5-3 : _Eventos_
-- [:hourglass_flowing_sand:] 5-4 : _Web Storage_
+- [:white_check_mark:] 5-1 : _DOM e seletores_
+- [:white_check_mark:] 5-2 : _Trabalhando com elemetos_
+- [:white_check_mark:] 5-3 : _Eventos_
+- [:white_check_mark:] 5-4 : _Web Storage_
+
+##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
+
+- [:hourglass_flowing_sand:] 6-1 : _HTML & CSS - Forms_
+- [:hourglass_flowing_sand:] 6-2 : _Bibliotecas JavaScript e Frameworks CSS_
+- [:hourglass_flowing_sand:] 6-3 : _CSS Flexbox - Parte 1_
+- [:hourglass_flowing_sand:] 6-4 : _CSS Flexbox - Parte 2_
+- [:hourglass_flowing_sand:] 6-5 : _CSS Responsivo - Mobile First_
