@@ -9,7 +9,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Des:hourglass_flowing_sand:
 
 ##### Bloco 1: Introdução - Unix & Shell
 
@@ -46,8 +46,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
 
-- [:hourglass_flowing_sand:] 6-1 : _HTML & CSS - Forms_
-- [:hourglass_flowing_sand:] 6-2 : _Bibliotecas JavaScript e Frameworks CSS_
-- [:hourglass_flowing_sand:] 6-3 : _CSS Flexbox - Parte 1_
-- [:hourglass_flowing_sand:] 6-4 : _CSS Flexbox - Parte 2_
-- [:hourglass_flowing_sand:] 6-5 : _CSS Responsivo - Mobile First_
+- [:white_check_mark:] 6-1 : _HTML & CSS - Forms_
+- [:white_check_mark:] 6-2 : _Bibliotecas JavaScript e Frameworks CSS_
+- [:white_check_mark:] 6-3 : _CSS Flexbox - Parte 1_
+- [:white_check_mark:] 6-4 : _CSS Flexbox - Parte 2_
+- [:white_check_mark:] 6-5 : _CSS Responsivo - Mobile First_
+
+##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
+
+- [:hourglass_flowing_sand:] 7-1: _Fluxo de exceções e manipulações de objetos_
+- [:hourglass_flowing_sand:] 7-2: _Primeiros passos em Jest_
+- [:hourglass_flowing_sand:] 7-3: _Matchers e cobertura de código_
