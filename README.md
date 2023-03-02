@@ -54,6 +54,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
-- [:hourglass_flowing_sand:] 7-1: _Fluxo de exceções e manipulações de objetos_
-- [:hourglass_flowing_sand:] 7-2: _Primeiros passos em Jest_
-- [:hourglass_flowing_sand:] 7-3: _Matchers e cobertura de código_
+- [:white_check_mark:] 7-1: _Fluxo de exceções e manipulações de objetos_
+- [:white_check_mark:] 7-2: _Primeiros passos em Jest_
+- [:white_check_mark:] 7-3: _Matchers e cobertura de código_
+
+##### Bloco 8: Higher Oder Functions do JavaScript ES6
+
+- [:hourglass_flowing_sand:] 8-1 : _Introdução a Higher Order Functions_
+- [:hourglass_flowing_sand:] 8-2 : _Higher Order Functions - sort e map_
+- [:hourglass_flowing_sand:] 8-3 : _Higher Order Functions - filter e reduce_
+- [:hourglass_flowing_sand:] 8-4 : _JavaScript ES6 - spread operator, rest parameters e object destructuring_
+- [:hourglass_flowing_sand:] 8-5 : _avaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
