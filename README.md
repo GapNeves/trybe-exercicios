@@ -73,45 +73,45 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 9-1 : _Ambiente de desenvolvimento_
 - [x] 9-2 : _JavaScript Assíncrono - Promises e fetch_
 - [x] 9-3 : _Casa de câmbio_
-- [] 9-4 : _Async, await e tests assíncronos_
+- [ ] 9-4 : _Async, await e tests assíncronos_
 
 ##### Bloco 10: Introdução a React
 
-- [] 10-1 : _'Hello, world!' no React!_
-- [] 10-2 : _Componentes React_
+- [ ] 10-1 : _'Hello, world!' no React!_
+- [ ] 10-2 : _Componentes React_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [] 11-1 : _Componentes com estado e eventos_
-- [] 11-2 : _Formulários no React_
+- [ ] 11-1 : _Componentes com estado e eventos_
+- [ ] 11-2 : _Formulários no React_
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [] 12-1 : _Ciclo de vida de componentes_
-- [] 12-2 : _React Router_
+- [ ] 12-1 : _Ciclo de vida de componentes_
+- [ ] 12-2 : _React Router_
 
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [] 13-1 : _Metodologias Ágeis_
+- [ ] 13-1 : _Metodologias Ágeis_
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
-- [] 14-1 : _RTL - Primeiros passos_
-- [] 14-2 : _RTL - Mocks e Inputs_
-- [] 14-3 : _Testanto React Router_
+- [ ] 14-1 : _RTL - Primeiros passos_
+- [ ] 14-2 : _RTL - Mocks e Inputs_
+- [ ] 14-3 : _Testanto React Router_
 
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
-- [] 15-1 : _Introdução ao Redux - O estado global da aplicação_
-- [] 15-2 : _Usando o Redux no React_
-- [] 15-3 : _Usando o Redux no React - Pratica_
-- [] 15-3 : _Usando o Redux no React - Actions Assíncronas_
-- [] 15-3 : _Testes em React-Redux_
+- [ ] 15-1 : _Introdução ao Redux - O estado global da aplicação_
+- [ ] 15-2 : _Usando o Redux no React_
+- [ ] 15-3 : _Usando o Redux no React - Pratica_
+- [ ] 15-3 : _Usando o Redux no React - Actions Assíncronas_
+- [ ] 15-3 : _Testes em React-Redux_
 
 ##### Bloco 16: Contexto Api e React Hooks
 
-- [] 9-1 : _React Hooks - useState e useEffect_
-- [] 9-2 : _Context API_
-- [] 9-3 : _Custom Hooks_
+- [ ] 9-1 : _React Hooks - useState e useEffect_
+- [ ] 9-2 : _Context API_
+- [ ] 9-3 : _Custom Hooks_
