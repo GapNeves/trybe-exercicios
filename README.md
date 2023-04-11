@@ -74,7 +74,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 9-1 : _Ambiente de desenvolvimento_
 - [x] 9-2 : _JavaScript Assíncrono - Promises e fetch_
 - [x] 9-3 : _Casa de câmbio_
-- [ ] 9-4 : _Async, await e tests assíncronos_
+- [x] 9-4 : _Async, await e tests assíncronos_
 
 ##### Bloco 10: Introdução a React
 
