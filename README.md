@@ -1,4 +1,5 @@
 # Meu repositório de exercícios
+
 Esse vai ser o repositório que vou utilizar para salvar os exercícios da Trybe 😉
 
 # Trybe
@@ -77,8 +78,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 10: Introdução a React
 
-- [ ] 10-1 : _'Hello, world!' no React!_
-- [ ] 10-2 : _Componentes React_
+- [x] 10-1 : _'Hello, world!' no React!_
+- [x] 10-2 : _Componentes React_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
@@ -90,7 +91,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 12-1 : _Ciclo de vida de componentes_
 - [ ] 12-2 : _React Router_
 
-
 ##### Bloco 13: Metodologias Ágeis
 
 - [ ] 13-1 : _Metodologias Ágeis_
@@ -100,7 +100,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 14-1 : _RTL - Primeiros passos_
 - [ ] 14-2 : _RTL - Mocks e Inputs_
 - [ ] 14-3 : _Testanto React Router_
-
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
