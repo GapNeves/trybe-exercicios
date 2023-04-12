@@ -83,13 +83,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11-1 : _Componentes com estado e eventos_
-- [ ] 11-2 : _Formulários no React_
+- [x] 11-1 : _Componentes com estado e eventos_
+- [x] 11-2 : _Formulários no React_
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-- [ ] 12-1 : _Ciclo de vida de componentes_
-- [ ] 12-2 : _React Router_
+- [x] 12-1 : _Ciclo de vida de componentes_
+- [x] 12-2 : _React Router_
 
 ##### Bloco 13: Metodologias Ágeis
 
