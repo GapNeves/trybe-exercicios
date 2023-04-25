@@ -1,0 +1,7 @@
+.buttonClick {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20;
+  padding: 50px;
+}
