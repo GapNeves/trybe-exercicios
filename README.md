@@ -93,11 +93,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [ ] 13-1 : _Metodologias Ágeis_
+- [x] 13-1 : _Metodologias Ágeis_
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
-- [ ] 14-1 : _RTL - Primeiros passos_
+- [x] 14-1 : _RTL - Primeiros passos_
 - [ ] 14-2 : _RTL - Mocks e Inputs_
 - [ ] 14-3 : _Testanto React Router_
 
