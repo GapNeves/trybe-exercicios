@@ -107,7 +107,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 15-2 : _Usando o Redux no React_
 - [x] 15-3 : _Usando o Redux no React - Pratica_
 - [x] 15-3 : _Usando o Redux no React - Actions Assíncronas_
-- [ ] 15-3 : _Testes em React-Redux_
+- [x] 15-3 : _Testes em React-Redux_
 
 ##### Bloco 16: Contexto Api e React Hooks
 
