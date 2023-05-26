@@ -1,16 +1,15 @@
-// ./src/App.js
-import React, { useState } from 'react';
+import User from './User';
 
 function App() {
-  const [counter, setCounter] = useState(0);
-  return (
+  const user = {
+    name: 'Gabriel',
+    age: 24
+  }
+  return(
     <div>
-      <div>Counter: {counter}</div>
-      <button type="button" onClick={() => setCounter(counter + 1)}>
-        Increase Counter
-      </button>
+      <User name={User.name} age={user.age} />
     </div>
-  );
+  )
 }
 
 export default App;
