@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ThemeContext from './context/ThemeContext';
+import ThemeProvider from './context/ThemeProvider';
 
 import './App.css';
 import Footer from './components/Footer';
@@ -14,13 +14,13 @@ function App() {
   }
 
   return (
-    <ThemeContext.Provider value={{ color: themeColor, toggleTheme }}>
+    <ThemeProvider>
       <div className={ themeColor }>
         <Header />
         <Image />
         <Footer />
       </div>
-    </ThemeContext.Provider>
+    </ThemeProvider>
   );
 }
 
