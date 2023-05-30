@@ -112,5 +112,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 16: Contexto Api e React Hooks
 
 - [x] 9-1 : _React Hooks - useState e useEffect_
-- [ ] 9-2 : _Context API_
-- [ ] 9-3 : _Custom Hooks_
+- [x] 9-2 : _Context API_
+- [x] 9-3 : _Custom Hooks_
