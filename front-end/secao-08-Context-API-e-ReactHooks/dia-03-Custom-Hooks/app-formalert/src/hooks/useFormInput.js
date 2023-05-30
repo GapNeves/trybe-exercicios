@@ -3,13 +3,18 @@ import { useState } from 'react'
 function useFormInput(initialValue) {
     const [value, setValue] = useState(initialValue);
 
-  function handChange(e) {
+  function handleChange(e) {
     setValue(e.target.value);
+  }
+
+  function clear() {
+    setValue('');
   }
 
   return {
     value: value,
-    onChange:handChange,
+    onChange:handleChange,
+    clear,
   };
 }
 
