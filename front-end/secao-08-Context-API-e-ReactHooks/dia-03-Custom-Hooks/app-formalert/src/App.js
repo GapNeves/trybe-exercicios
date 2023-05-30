@@ -20,6 +20,9 @@ function App() {
       }),
       'success'
     );
+    firstName.clear();
+    lastName.clear();
+    email.clear();
   }
 
   return (
