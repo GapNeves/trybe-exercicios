@@ -47,6 +47,10 @@ footer {
   transition: all 500ms;
 }
 
+img {
+  padding: 305px;
+}
+
 /* .light footer {
   background-color: #333;
   color: black;
