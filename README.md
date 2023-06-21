@@ -67,7 +67,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-4 : _JavaScript ES6 - spread operator, rest parameters e object destructuring_
 - [x] 8-5 : _JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters_
 
-## Front-end :hourglass_flowing_sand:
+## Front-end :heavy_check_mark:
 
 ##### Bloco 9: Introdução ao Frontend e JavaScript assíncrono
 
@@ -111,6 +111,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 16: Contexto Api e React Hooks
 
-- [x] 9-1 : _React Hooks - useState e useEffect_
-- [x] 9-2 : _Context API_
-- [x] 9-3 : _Custom Hooks_
+- [x] 16-1 : _React Hooks - useState e useEffect_
+- [x] 16-2 : _Context API_
+- [x] 16-3 : _Custom Hooks_
+
+## Back-end :hourglass_flowing_sand:
+
+##### Bloco 17: Docker: Utilizando Containers
+
+- [x] 17-1 : _Utilizando Containers - Docker_
+- [ ] 17-2 : _Manipulando Imagens no Docker_
+- [ ] 17-3 : _Orquestrando Containers com Docker Compose_
