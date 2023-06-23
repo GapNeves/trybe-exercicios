@@ -120,5 +120,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 17: Docker: Utilizando Containers
 
 - [x] 17-1 : _Utilizando Containers - Docker_
-- [ ] 17-2 : _Manipulando Imagens no Docker_
-- [ ] 17-3 : _Orquestrando Containers com Docker Compose_
+- [x] 17-2 : _Manipulando Imagens no Docker_
+- [x] 17-3 : _Orquestrando Containers com Docker Compose_
