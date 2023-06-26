@@ -1,0 +1,8 @@
+    version: '3'
+
+    services:
+
+      frontend: 
+        build: ./app-docker
+        ports:
+          - 8080:80
