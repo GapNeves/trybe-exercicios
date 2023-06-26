@@ -122,3 +122,58 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 17-1 : _Utilizando Containers - Docker_
 - [x] 17-2 : _Manipulando Imagens no Docker_
 - [x] 17-3 : _Orquestrando Containers com Docker Compose_
+
+##### Bloco 18: Introdução à SQL
+
+- [ ] 18-1 : _Banco de dador SQL_
+- [ ] 18-2 : _Encontrando dados em um banco de dados_
+- [ ] 18-3 : _Filtrando dados de forma específica_
+- [ ] 18-4 : _Express_
+
+##### Bloco 19: Funções SQL, JOINs e Normalização
+
+- [ ] 19-1 : _Funções mais usadas no SQL_
+- [ ] 19-2 : _Descomplicando JOINs_
+- [ ] 19-3 : _Transformando ideias em um modelo de banco de dados_
+
+##### Bloco 20: Introdução ao desenvolvimento Web com Node,js
+
+- [ ] 20-1 : _Node.js: Runtime Assíncrono_
+- [ ] 20-2 : _Node.js: API REST com Express_
+- [ ] 20-3 : _Node.js: Testes de Integração_
+- [ ] 20-4 : _Node.js: Express e Middlewares_
+- [ ] 20-5 : _Node.js: Express e MySQL_
+
+##### Bloco 21: Arquitetura de Software: Model, Service e Controller
+
+- [ ] 21-1 : _Arquitetura de Software: Camada Model_
+- [ ] 21-2 : _Arquitetura de Software: Refatorando Camada Model_
+- [ ] 21-3 : _Arquitetura de Software: Camada Service_
+- [ ] 21-4 : _Arquitetura de Software: Refatorando Camada Service_
+- [ ] 21-5 : _Arquitetura de Software: Refatorando Camada Controller_
+
+##### Bloco 22: Node.js: ORM e Autenticação
+
+- [ ] 22-1 : _ORM - Interface da aplicação com o banco de dados_
+- [ ] 22-2 : _ORM - Associations 1:1 e 1:N_
+- [ ] 22-3 : _ORM - Associations N:N e Transactions_
+- [ ] 22-4 : _JWT - (JASON Web Token)_
+
+##### Bloco 23: Masterclass: Implantação de Aplicações na Nuvem
+
+- [ ] 23-1 : _Infraestrutura: Deploy com Railway_
+
+##### Bloco 24: Introdução a TypeScript
+
+- [ ] 17-1 : _Aprendendo TypeScript_
+- [ ] 17-2 : _Introdução a Generics_
+- [ ] 17-3 : _API REST com Express, JWT, Sequelize e TypeScript_
+- [ ] 17-4 : _Testando Aplicações com TypeScript_
+
+##### Bloco 25: POO e Solid
+
+- [ ] 17-1 : _Introdução à Orientação a Objetos_
+- [ ] 17-2 : _Herança e Composição_
+- [ ] 17-3 : _Plimorfismo_
+- [ ] 17-4 : _SOLID - Introdução e Princípios_
+- [ ] 17-5 : _SOLID - Princípios L e I_
