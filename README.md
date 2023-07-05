@@ -126,9 +126,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 18: Introdução à SQL
 
 - [x] 18-1 : _Banco de dados SQL_
-- [ ] 18-2 : _Encontrando dados em um banco de dados_
-- [ ] 18-3 : _Filtrando dados de forma específica_
-- [ ] 18-4 : _Express_
+- [x] 18-2 : _Encontrando dados em um banco de dados_
+- [x] 18-3 : _Filtrando dados de forma específica_
+- [x] 18-4 : _Manipulando Tabelas_
 
 ##### Bloco 19: Funções SQL, JOINs e Normalização
 
