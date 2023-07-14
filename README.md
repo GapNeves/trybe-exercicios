@@ -132,14 +132,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 19: Funções SQL, JOINs e Normalização
 
-- [ ] 19-1 : _Funções mais usadas no SQL_
-- [ ] 19-2 : _Descomplicando JOINs_
-- [ ] 19-3 : _Transformando ideias em um modelo de banco de dados_
+- [x] 19-1 : _Funções mais usadas no SQL_
+- [x] 19-2 : _Descomplicando JOINs_
+- [x] 19-3 : _Transformando ideias em um modelo de banco de dados_
 
 ##### Bloco 20: Introdução ao desenvolvimento Web com Node,js
 
-- [ ] 20-1 : _Node.js: Runtime Assíncrono_
-- [ ] 20-2 : _Node.js: API REST com Express_
+- [x] 20-1 : _Node.js: Runtime Assíncrono_
+- [x] 20-2 : _Node.js: API REST com Express_
 - [ ] 20-3 : _Node.js: Testes de Integração_
 - [ ] 20-4 : _Node.js: Express e Middlewares_
 - [ ] 20-5 : _Node.js: Express e MySQL_
