@@ -1,3 +1,3 @@
-const teams = [];
+let teams = [];
 
 module.exports = teams;
