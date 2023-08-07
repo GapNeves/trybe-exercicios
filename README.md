@@ -140,13 +140,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 20-1 : _Node.js: Runtime Assíncrono_
 - [x] 20-2 : _Node.js: API REST com Express_
-- [ ] 20-3 : _Node.js: Testes de Integração_
-- [ ] 20-4 : _Node.js: Express e Middlewares_
-- [ ] 20-5 : _Node.js: Express e MySQL_
+- [x] 20-3 : _Node.js: Testes de Integração_
+- [x] 20-4 : _Node.js: Express e Middlewares_
+- [x] 20-5 : _Node.js: Express e MySQL_
 
 ##### Bloco 21: Arquitetura de Software: Model, Service e Controller
 
-- [ ] 21-1 : _Arquitetura de Software: Camada Model_
+- [x] 21-1 : _Arquitetura de Software: Camada Model_
 - [ ] 21-2 : _Arquitetura de Software: Refatorando Camada Model_
 - [ ] 21-3 : _Arquitetura de Software: Camada Service_
 - [ ] 21-4 : _Arquitetura de Software: Refatorando Camada Service_
