@@ -147,14 +147,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 21: Arquitetura de Software: Model, Service e Controller
 
 - [x] 21-1 : _Arquitetura de Software: Camada Model_
-- [ ] 21-2 : _Arquitetura de Software: Refatorando Camada Model_
-- [ ] 21-3 : _Arquitetura de Software: Camada Service_
-- [ ] 21-4 : _Arquitetura de Software: Refatorando Camada Service_
-- [ ] 21-5 : _Arquitetura de Software: Refatorando Camada Controller_
+- [x] 21-2 : _Arquitetura de Software: Refatorando Camada Model_
+- [x] 21-3 : _Arquitetura de Software: Camada Service_
+- [x] 21-4 : _Arquitetura de Software: Refatorando Camada Service_
+- [x] 21-5 : _Arquitetura de Software: Refatorando Camada Controller_
 
 ##### Bloco 22: Node.js: ORM e Autenticação
 
-- [ ] 22-1 : _ORM - Interface da aplicação com o banco de dados_
+- [x] 22-1 : _ORM - Interface da aplicação com o banco de dados_
 - [ ] 22-2 : _ORM - Associations 1:1 e 1:N_
 - [ ] 22-3 : _ORM - Associations N:N e Transactions_
 - [ ] 22-4 : _JWT - (JASON Web Token)_
