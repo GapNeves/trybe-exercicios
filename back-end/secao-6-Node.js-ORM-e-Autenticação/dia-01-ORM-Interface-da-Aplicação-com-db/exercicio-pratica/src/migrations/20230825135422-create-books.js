@@ -13,7 +13,7 @@ module.exports = {
         allowNull: false,
         type: Sequelize.STRING
       },
-      athour: {
+      author: {
         allowNull: false,
         type: Sequelize.STRING
       },
