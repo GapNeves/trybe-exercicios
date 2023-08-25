@@ -12,16 +12,27 @@ module.exports = {
       title: {
         allowNull: false,
         type: Sequelize.STRING
+      },
+      athour: {
+        allowNull: false,
+        type: Sequelize.STRING
+      },
+      pageQuantity: {
+        allowNull: true,
+        type: Sequelize.INTEGER
+      },
+      createAt: {
+        allowNull: false,
+        type: Sequelize.DATE
+      },
+      updateAt: {
+        allowNull: false,
+        type: Sequelize.DATE
       }
     });
   },
 
   down: async (queryInterface, Sequelize) => {
-    /**
-     * Add reverting commands here.
-     *
-     * Example:
-     * await queryInterface.dropTable('users');
-     */
+    await queryInterface.dropTable('Books');
   }
 };
