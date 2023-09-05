@@ -155,17 +155,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 22: Node.js: ORM e Autenticação
 
 - [x] 22-1 : _ORM - Interface da aplicação com o banco de dados_
-- [ ] 22-2 : _ORM - Associations 1:1 e 1:N_
-- [ ] 22-3 : _ORM - Associations N:N e Transactions_
-- [ ] 22-4 : _JWT - (JASON Web Token)_
+- [x] 22-2 : _ORM - Associations 1:1 e 1:N_
+- [x] 22-3 : _ORM - Associations N:N e Transactions_
+- [x] 22-4 : _JWT - (JASON Web Token)_
 
 ##### Bloco 23: Masterclass: Implantação de Aplicações na Nuvem
 
-- [ ] 23-1 : _Infraestrutura: Deploy com Railway_
+- [x] 23-1 : _Infraestrutura: Deploy com Railway_
 
 ##### Bloco 24: Introdução a TypeScript
 
-- [ ] 17-1 : _Aprendendo TypeScript_
+- [x] 17-1 : _Aprendendo TypeScript_
 - [ ] 17-2 : _Introdução a Generics_
 - [ ] 17-3 : _API REST com Express, JWT, Sequelize e TypeScript_
 - [ ] 17-4 : _Testando Aplicações com TypeScript_

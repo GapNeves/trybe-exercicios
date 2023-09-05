@@ -1,21 +1,15 @@
 {
-  "name": "exercicio-pratica",
+  "name": "compilador",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "4.17.1",
-    "mysql2": "2.1.0",
-    "sequelize": "6.3.4"
-  },
   "devDependencies": {
-    "sequelize-cli": "6.2.0"
+    "typescript": "4.4"
   }
 }
