@@ -166,13 +166,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 24: Introdução a TypeScript
 
 - [x] 17-1 : _Aprendendo TypeScript_
-- [ ] 17-2 : _Introdução a Generics_
-- [ ] 17-3 : _API REST com Express, JWT, Sequelize e TypeScript_
-- [ ] 17-4 : _Testando Aplicações com TypeScript_
+- [x] 17-2 : _Introdução a Generics_
+- [x] 17-3 : _API REST com Express, JWT, Sequelize e TypeScript_
+- [x] 17-4 : _Testando Aplicações com TypeScript_
 
 ##### Bloco 25: POO e Solid
 
-- [ ] 17-1 : _Introdução à Orientação a Objetos_
+- [x] 17-1 : _Introdução à Orientação a Objetos_
 - [ ] 17-2 : _Herança e Composição_
 - [ ] 17-3 : _Plimorfismo_
 - [ ] 17-4 : _SOLID - Introdução e Princípios_
