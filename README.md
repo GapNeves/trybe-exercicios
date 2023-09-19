@@ -173,7 +173,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 25: POO e Solid
 
 - [x] 17-1 : _Introdução à Orientação a Objetos_
-- [ ] 17-2 : _Herança e Composição_
+- [x] 17-2 : _Herança e Composição_
 - [ ] 17-3 : _Plimorfismo_
 - [ ] 17-4 : _SOLID - Introdução e Princípios_
 - [ ] 17-5 : _SOLID - Princípios L e I_
